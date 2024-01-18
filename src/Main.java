@@ -87,7 +87,7 @@ public class Main {
             int day500Gr = totalWeightGr / 500;
             System.out.println("Для похудения на " + totalWeightGr + " грамм, сбрасывая 500 гр в день, спортсмену понадобится " + day500Gr + " дней ");
             int averageDays = (day250Gr + day500Gr) / 2;
-            System.out.println("Для похудения на 7 кг, в среднем, спортсмену понадобится " + averageDays + " день ");
+            System.out.println("Для похудения на 7000 гр, в среднем, спортсмену понадобится " + averageDays + " день ");
             // Задача 8
             float masha = 67760;
             float denis = 83690;
